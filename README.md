@@ -3,7 +3,7 @@ This project provides a SQL Server solution for a common HR analytics and FAANG 
 
 This query algorithm was written entirely by my own effort, without any assistance from artificial intelligence.
 
-# Best regards,
+# Best regards
 
 # Azat Hallyyev
 
